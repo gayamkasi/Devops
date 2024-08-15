@@ -6,8 +6,7 @@ learner=kasi
 professor=rambabu
 syallbus=$1
 date=$(date)
-dollar=$2
-rupee=$3
+
 
 
 echo hello this is rose.what is your name please.
@@ -25,8 +24,5 @@ echo "we are learning $syallbus here."
 
 echo "Starting date of the class are : $date "
 
-echo "what is the value of Dollar today in india - $dollar"
-
-echo "what is the value of Rupee today in usa - $rupee"
 
 
