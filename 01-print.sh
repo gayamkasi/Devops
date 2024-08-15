@@ -25,8 +25,8 @@ echo "we are learning $syallbus here."
 
 echo "Starting date of the class are : $date "
 
-echo "what is the value of Dollar today in india - $2"
+echo "what is the value of Dollar today in india - $dollar"
 
-echo "what is the value of Rupee today in usa - $3"
+echo "what is the value of Rupee today in usa - $rupee"
 
 
