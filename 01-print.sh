@@ -7,5 +7,5 @@ echo my name is harish.may i know where are you from.
 
 echo " ********* I am from The England *********** "
 
-echo -e "\e[31m Welcome to Mother India Miss Rose.\e[0m"
+echo -e "\e[32m Welcome to Mother India Miss Rose.\e[0m"
 
