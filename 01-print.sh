@@ -6,8 +6,8 @@ learner=kasi
 professor=rambabu
 syallbus=$1
 date=$(date)
-$2=radha
-$3=varun
+name1=radha
+name2=varun
 
 
 
@@ -27,9 +27,9 @@ echo "we are learning $syallbus here."
 
 echo "Starting date of the class are : $date "
 
-echo "Hi $2 how are you"
+echo "Hi $name1 how are you"
 
-echo "hi $3 i am fine.how about you."
+echo "hi $name2 i am fine.how about you."
 
 
 
