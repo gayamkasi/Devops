@@ -6,10 +6,13 @@ learner=kasi
 professor=rambabu
 syallbus=$1
 date=$(date)
+$1=radha
+$2=varun
 
 
 
 echo hello this is rose.what is your name please.
+
 echo my name is harish.may i know where are you from.
 
 echo " ********* I am from The England *********** "
@@ -23,6 +26,10 @@ echo "Our Trainer $professor sir."
 echo "we are learning $syallbus here."
 
 echo "Starting date of the class are : $date "
+
+echo "Hi $1 how are you"
+
+echo "hi $2 i am fine.how about you."
 
 
 
