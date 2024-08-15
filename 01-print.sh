@@ -2,20 +2,20 @@
 
 # we are going to learn how to print statement with echo command.
 
-learner=kasi
+trainer=Rambabu
 syallbus=$1
 date=$(date)
 
 
-echo my name is harish.may i know where are you and from.
+echo my name is Kasi.May i know who are you and Where are you from.
 
-echo " ********* I am from The England and My name is Rose *********** "
+echo " ********* My name is Rose and I am from The England *********** "
 
-echo -e "\e[32m Welcome to Mother India Miss Rose.\e[0m"
+echo -e "\e[32mWelcome to Bharat Miss Rose.\e[0m"
 
-echo "My name is ${learner}."
+echo "Our Trainer is ${trainer} sir."
 
-echo "we are learning $syallbus here."
+echo "we are studying $syallbus in IIT."
 
 echo "Starting date of the class are : $date "
 
