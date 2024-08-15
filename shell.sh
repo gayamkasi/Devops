@@ -5,3 +5,4 @@ Hi welcome to shell programming
 01 Echo statements
 02 Quotes
 03 Color code syntax
+04 Variable
