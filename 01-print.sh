@@ -7,7 +7,7 @@ syallbus=$1
 date=$(date)
 
 
-echo my name is Kasi.May i know who are you and Where are you from.
+echo My name is Kasi.May i know who are you and Where are you from.
 
 echo " ********* My name is Rose and I am from The England *********** "
 
